@@ -19,7 +19,7 @@ You can also browse my <a href="https://scholar.google.com/citations?user=qfJj4r
 
 -<b>Dingming Wu</b>, Guihai Chen, Chao Dong, Shaojie Tang, Haipeng Dai, "Simultaneous Query for Wireless Sensor Networks: A Power Based Solution", IEEE Transactions on Mobile Computing, Issue No. 02 Feb. (2016 vol. 15), Pages 475-488.
 
--Shuying Yu, Xiaobing Wu, Pan Wu, <b>Dingming Wu</b>, Haipeng Dai, Guihai Chen, "CIRF: Constructive interference-based Reliable Flooding in Asynchronous Duty-cycle Wireless Sensor Networks", 2014 IEEE Wireless Communications and Networking Conference (WCNC).
+-Shuying Yu, Xiaobing Wu, Pan Wu, <b>Dingming Wu</b>, Haipeng Dai, Guihai Chen, "CIRF: Constructive interference-based Reliable Flooding in Asynchronous Duty-cycle Wireless Sensor Networks", IEEE Wireless Communications and Networking Conference (WCNC), 2014
 
 -<b>Dingming Wu</b>, Chao Dong, Shaojie Tang, Haipeng Dai, Guihai Chen, "Fast and fine-grained counting and identification via constructive interference in WSNs", IEEE Proceedings of the 13th International Symposium on Information Processing in Sensor Networks (IPSN), 2014.
 
