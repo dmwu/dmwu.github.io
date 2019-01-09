@@ -5,7 +5,6 @@ title: Publications
 
 You can also browse my <a href="https://scholar.google.com/citations?user=qfJj4r8AAAAJ&hl=en" target="_blank">Google Scholar profile</a>.
 
-#### Conference papers
 -Xiaoye Steven Sun, Yiting Xia, Simbarashe Dzinamarira, Xin Sunny Huang, <b>Dingming Wu</b>, T. S. Eugene Ng, "Republic: Data Multicast Meets Hybrid Rack-Level Interconnections in Data Center", in 26th IEEE International Conference on Network Protocols (ICNP'18), Cambridge, UK, September 2018 [[PDF](https://www.cs.rice.edu/~eugeneng/papers/ICNP18.pdf)].
 
 -<b>Dingming Wu</b>, Yiting Xia, Xiaoye Steven Sun, Xin Sunny Huang, Simbarashe Dzinamarira, T. S. Eugene Ng, "Masking Failures from Application Performance in Data Center Networks with Shareable Backup", in ACM SIGCOMM'18, Budapest, Hungary, August 2018 
