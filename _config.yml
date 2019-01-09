@@ -14,7 +14,7 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Dingming Wu
+title: Dingming Wu's Homepage
 
 # Short description of your site
 description: Personal Homepage
@@ -33,7 +33,7 @@ avatar: "/img/dmwu.jpeg"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-title-img: /img/dmwu.jpeg
+#title-img: /img/dmwu.jpeg
 
 # --- Footer options --- #
 
