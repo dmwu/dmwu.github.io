@@ -19,6 +19,8 @@ title: Dingming Wu's Homepage
 # Short description of your site
 description: Personal Homepage
 
+plugins:
+  - jekyll-seo-tag
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
