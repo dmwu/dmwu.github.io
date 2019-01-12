@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "http://dmwu.github.io"
+url: "https://dmwu.github.io"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -27,7 +27,7 @@ plugins:
 navbar-links:
   Home: "index"
   Publications: "publications"
-  Curriculum Vitae: "cv_4"
+  Curriculum Vitae: "cv_4.pdf"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
