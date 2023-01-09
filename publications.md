@@ -5,6 +5,8 @@ title: Publications
 
 You can also browse my <a href="https://scholar.google.com/citations?user=qfJj4r8AAAAJ&hl=en" target="_blank">Google Scholar profile</a>.
 
+-Weitao Wang, <b>Dingming Wu</b>, Sushovan Das, Afsaneh Rahbar, Ang Chen, T. S. Eugene Ng , "RDC: Energy-Efficient Data Center Network Congestion Relief with Topological Reconfigurability at the Edge", in 19th USENIX Symposium on Networked Systems Design & Implementation (NSDI'22), Renton, WA, April 2022 [[PDF](https://www.cs.rice.edu/~eugeneng/papers/NSDI22-RDC.pdf)].
+
 -<b>Dingming Wu</b>, Ang Chen, T. S. Eugene Ng, Guohui Wang, Haiyong Wang, "Accelerated Service Chaining on a Single Switch ASIC", in Eighteenth ACM Workshop on Hot Topics in Networks (HotNets 2019), Princeton, NJ, November 2019 [[PDF](https://www.cs.rice.edu/~eugeneng/papers/HotNets19.pdf)].
 
 -<b>Dingming Wu</b>, Weitao Wang, Ang Chen, T. S. Eugene Ng, "Say No to Rack Boundaries: Towards a Reconfigurable Pod-Centric DCN Architecture", in ACM Symposium on SDN Research (SOSR 2019), San Jose, CA, April 2019  [[PDF](https://www.cs.rice.edu/~eugeneng/papers/SOSR19.pdf)].
